@@ -1,6 +1,6 @@
 @extends('base')
 
 @section('content')
-    <h1>Test Page</h1>
+    <h1 class="text-red-500 text-2xl">Test Page</h1>
 @endsection
 
